@@ -1,0 +1,2 @@
+# pipipx
+project trying 
